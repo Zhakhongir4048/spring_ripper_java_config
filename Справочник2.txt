@@ -1,0 +1,2 @@
+BeanFactoryPostProcessor
+позволяет настраивать BeanDefinition, до того, как создаются бины.
